@@ -67,15 +67,49 @@ University of Technology Publication (Jahad-Daneshgahi), Under Publish
 
 
 
-## Preview
+## Skills
+### Programming
+* C++
+* Qbasic
+* Familiar with PHP
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+### Software
+* COMSOL Multiphysics
+*  MATLAB
+*  ABAQUS
+*  Material Studio
+*  Origin
+*  Moldflow
+*  Aspen Plus
+*  ChemDraw
+*  Photoshop
+*  AutoCAD
+*  Familiar with Gaussian, ANSYS, Solid Works, 3D Max
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+### Typesetting
+* Microsoft Office
+* Endnote
+* InDesign
+
+### Laboratory
+#### Rubber Laboratory: 
+* Rubber Rheometer
+* Durometer
+* Oven
+* Rubber Sheet and Tablet Press Molding
+* Rubber Compounding
+* Tensile Machine
+
+  
+#### Resin Laboratory: 
+* Polyurethane formulation
+* Epoxy prepolymers
+* Taber Abrasion Instrument
+* Ford Cup
+* Viscometer
+* VICAT
+* IR and NMR Spectrum Analysis
+
 
 ## Getting Started
 
