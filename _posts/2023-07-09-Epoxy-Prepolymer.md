@@ -6,10 +6,11 @@ excerpt: "Epoxy Prepolymer"
 project: true
 tag:
 - epoxy 
-- prepoymer
+- prepolymer
 - polymerization
 - blog
 - project
+- hardener
 comments: true
 feature: /assets/img/post/epoxy.jpg
 ---
