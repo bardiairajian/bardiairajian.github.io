@@ -1,7 +1,7 @@
 # Site
 title:              Bardia Irajian
 bio:                'A Chemophile Material Engineer.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "Find out more about me on this website!"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -50,7 +50,7 @@ instagram:          bardiairajian
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
