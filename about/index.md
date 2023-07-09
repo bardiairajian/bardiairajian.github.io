@@ -5,8 +5,9 @@ tags: [about, Bardia, Irajian, CV]
 date: 2023-07-09
 comments: false
 ---
-    
-<center><b> You can find my background and projects here.</b></center><br>
+
+<a href="/about/Biography.md">My Biography</a>    
+<center><b> You can find my background and projects here.</b></center>
 <center>You can download my CV at the end of the page.</center>
 
 ## Personal Information
