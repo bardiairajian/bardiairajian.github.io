@@ -111,7 +111,27 @@ University of Technology Publication (Jahad-Daneshgahi), Under Publish
 * IR and NMR Spectrum Analysis
 
 
-## Getting Started
+## Teaching and Work Experiences
+* Technical Manager, PadraPat Pars, 2022
+* Teacher Assistance, Organic Chemistry (Dr. Zahedi), University of Tehran, Winter 2022-Spring 2022
+* Polymer Technician, APEK Hose, 2021-2022
+* Polymer Technician, PadraPat Pars, 2018-2021
+* Editor in Chief, MIM Scientific Journal, Scientific Society of Chemical and Polymer Engineering, University of Tehran, 2020-2021
+* Chemistry Olympiad Teacher, Alborz Mandegar Highschool, 2019-2021
+
+## Projects
+* Moisture Cure Polyurethanes, Padrapatpars, 2023
+* HSP and Film Formation of Latexes, Amirkabir University of Technology, 2023
+* Waterborne Epoxy and Hardener, Padrapatpars, 2022
+* Technical and economic justification plan of Diethylenetriamine (DETA), University of Tehran,2022
+* Rubber Hose Curing Simulation, APEK Hose, 2021
+* Rubber Hose Mechanical Simulations, APEK Hose 2021
+* Polyurethane Sealants, Padrapatpars, 2020
+* Polyurethane Foam Formulation, Padrapatpars, 2020
+* Epoxy Prepolymer with Lower Heat and Shrinkage, Padrapat Pars, 2018
+* Chem-e-car with Zinc-Air Battery and Ammonia Fountain Brake, University of Tehran, 2019
+
+
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
