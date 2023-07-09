@@ -2,7 +2,7 @@
 layout: post
 title:  "Polyurethanes: Foam and Sealants"
 date:   2023-07-09
-excerpt: "PU"
+excerpt: "An introduction to PU world"
 project: true
 tag:
 - polyurethane 
