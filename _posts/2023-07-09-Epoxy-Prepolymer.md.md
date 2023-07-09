@@ -11,16 +11,8 @@ tag:
 - blog
 - project
 comments: true
-feature: /assets/img/post/Chem-e-Car3.jpg
+feature: /assets/img/post/epoxy.jpg
 ---
 
-## What is Chem-e-Car?
-Chem-e-car is the name of the competition which is held annually in Iran and many other countries. This competition focuses on controlling and stopping a car's movement at a specific distance. In other words, competitors must control their battery and use a brake system that can be calibrated on the competition day based on the distance.<br>
-## Battery
-Our car used zinc-air batteries as an energy supplier. To make this battery, we needed Zinc (As anode), a graphite electrode (and cathode), and an alkaline electrolyte. It is noticeable that the weight of the car (including batteries) was a serious problem. To overcome this, we used film electrolyte which is based on PVA. The Zinc sheet and electrolyte rolled over a carbon electrode and the energy was used.<br>
-## Braking System
-Stopping the car, needed a brake system and we used an Ammonia fountain! This is a completely new idea in comparison with usual brake systems such as Magnesium and Acid. Furthermore, the Ammonia gas was stored in a bottle and when it was upside in water, water started to solve Ammonia and created a vacuum. As a result, all the water entered the bottle and cause a stop current because of key movement in the water.<br>
-<centre><img src="/assets/img/post/Chem-e-Car2.jpg"></centre>
-## Our Team
-I started this project when I was in the 3rd semester of my BSc. That was a great experience for me to contact Kamyar Kaffi and Moien Verkiani as senior students and Naghme Khodabande and Mahta Akhyani as colleagues. All of the team except me, study Chemical Engineering, and I as a Polymer Engineer of the team focused on the chemistry of the project. That was a great experimental project which I have done.
-<centre><img src="/assets/img/post/Chem-e-Car1.jpg"></centre>
+Epoxy resins have a wide range of applications, especially in the construction industry. The system usually contains two components which are Epoxy resin and an amine hardener; however, there might be some problems in these systems such as overheating and shrinkage which affects the final mechanical properties.<br>
+In this project, we use Diethanol amine (which produce in Iran) as a harder which is pre-polymerized partially with epoxy resin. Therefore, this new amine releases less heat and shrinkage during the curing process and can be added to other hardeners.
