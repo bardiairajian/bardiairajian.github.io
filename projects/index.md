@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
-comments: false
+title: Biography
+excerpt: "Biography of Bardia Irajian"
+comments: True
 ---
