@@ -143,7 +143,7 @@ University of Technology Publication (Jahad-Daneshgahi), Under Publish
 #### Persian (Native)
 #### English (Fluent)
 * IELTS: Overall: 7/ Speaking: 7 / Listening: 7.5 / Reading: 6.5 / Writing: 6
-* GRE: Quantitative Reasoning: 167/170 // Appointment# 7381211221692755
+* GRE: Quantitative Reasoning: 167/170
 
 [Download CV](/about/CV.pdf){: .btn}
 [Download CV (Europass)](/about/Europass_CV.pdf){: .btn}
