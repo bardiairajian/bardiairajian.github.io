@@ -131,8 +131,19 @@ University of Technology Publication (Jahad-Daneshgahi), Under Publish
 * Epoxy Prepolymer with Lower Heat and Shrinkage, Padrapat Pars, 2018
 * Chem-e-car with Zinc-Air Battery and Ammonia Fountain Brake, University of Tehran, 2019
 
+## Honor and Awards
+* Rank 4 in National Color Technology Entrance Exam, Spring 2022
+* Selected as a Talented Student (without Exam) for Color Technology Master of Science, Amirkabir University of Technology, Winter 2022
+* Ranked One Among 26 Students in Polymer Engineering Bachelor of Science Students, University of Tehran, Fall 2021
+* Member, National Elite Foundation. Fall 2017
+* 1st Silver Medal, National Chemistry Olympiad, Young Scholars’ Club, Summer 2017
 
+## Language
+#### Persian (Native)
+#### English (Fluent)
+* IELTS: Overall: 7/ Speaking: 7 / Listening: 7.5 / Reading: 6.5 / Writing: 6
+* GRE: Quantitative Reasoning: 167/170 // Appointment# 7381211221692755
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Download CV](/CV.pdf){: .btn}
+[Download CV (Europass)](/EuroPass.pdf){: .btn}
+[Download CV (Persian)](/FaCV.pdf){: .btn}
