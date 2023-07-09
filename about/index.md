@@ -1,24 +1,46 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Bardia Irajian
+tags: [about, Bardia, Irajian, CV]
+date: 2023-07-09
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+
+## Personal Information
+* Phone: +98 910 0944460
+* Email: bardia.irajian@epfl.ch
+* ORCID: 0000-0002-4642-9422
+
+## Education
+* <b>EPFL</b><br>
+Lausanne, Switzerland, 2023<br>
+Master of Science, Material Science and Engineering<br>
+
+* <b>Amirkabir University of Technology</b><br>
+Tehran, Iran, 2022-2023 <br>
+Master of Science, Color Engineering and Technology<br>
+Supervisor: Dr. Mohseni<br>
+GPA: 16.73/20<br>
+Studying 2 Semester of MSc, Passing 23 Credits out of 32<br>
+
+* <b>University of Tehran</b><br>
+Tehran, Iran, 2018-2022 <br>
+Bachelor of Science, Polymer Engineering<br>
+GPA: 18.10/20<br>
+Final Project: “Synthesis of Polyurea Polyaspartic High Abrasion and Chemical Resistance Coatings”<br>
+
+* <b>University of Tehran</b><br>
+Tehran, Iran, 2018-2022 <br>
+Minor, Chemistry<br>
+GPA: 18.59/20<br>
+
+* <b>Allame Helli Highschool</b><br>
+Tehran, Iran, 2014-2018 <br>
+Diploma in Mathematics and Physics<br>
+GPA: 19.53/20
+
 
 ## Preview
 
