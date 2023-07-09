@@ -6,7 +6,8 @@ date: 2023-07-09
 comments: false
 ---
     
-
+<center><b> You can find my background and projects here.</b></center><br>
+<center>You can download my CV at the end of the page.</center>
 
 ## Personal Information
 * Phone: +98 910 0944460
