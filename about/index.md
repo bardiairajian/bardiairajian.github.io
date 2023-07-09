@@ -145,5 +145,5 @@ University of Technology Publication (Jahad-Daneshgahi), Under Publish
 * GRE: Quantitative Reasoning: 167/170 // Appointment# 7381211221692755
 
 [Download CV](/CV.pdf){: .btn}
-[Download CV (Europass)](/EuroPass.pdf){: .btn}
+[Download CV (Europass)](/Europass_CV.pdf){: .btn}
 [Download CV (Persian)](/FaCV.pdf){: .btn}
