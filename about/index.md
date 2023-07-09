@@ -11,7 +11,8 @@ comments: false
 ## Personal Information
 * Phone: +98 910 0944460
 * Email: bardia.irajian@epfl.ch
-* ORCID: 0000-0002-4642-9422
+* ORCID: <a href="https://orcid.org/0000-0002-4642-9422">0000-0002-4642-9422</a>
+* ResearchGate: <a href="https://www.researchgate.net/profile/Bardia-Irajian">Bardia Irajian</a>
 
 ## Education
 * <b>EPFL</b><br>
