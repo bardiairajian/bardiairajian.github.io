@@ -4,13 +4,7 @@ title:  "Epoxy Prepolymer with Lower Heat and Shrinkage"
 date:   2023-07-09
 excerpt: "Epoxy Prepolymer"
 project: true
-tag:
-- epoxy 
-- prepolymer
-- polymerization
-- blog
-- project
-- hardener
+tag: [epoxy, prepolymer, polymerization, blog, project, hardener]
 comments: false
 feature: /assets/img/post/epoxy.jpg
 ---
