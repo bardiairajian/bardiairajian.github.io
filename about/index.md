@@ -6,9 +6,9 @@ date: 2023-07-09
 comments: false
 ---
 
-<a href="/about/Biography.md">My Biography</a>    
-<center><b> You can find my background and projects here.</b></center>
-<center>You can download my CV at the end of the page.</center>
+
+<center><b> You can find my background and projects here. Also, click on Read More to read more about article or project.</b></center><br>
+<center>You can download my CV at the end of the page.</center><br>
 
 ## Personal Information
 * Phone: +98 910 0944460
@@ -122,7 +122,7 @@ University of Technology Publication (Jahad-Daneshgahi), Under Publish
 * Editor in Chief, MIM Scientific Journal, Scientific Society of Chemical and Polymer Engineering, University of Tehran, 2020-2021
 * Chemistry Olympiad Teacher, Alborz Mandegar Highschool, 2019-2021
 
-## Projects
+## <a href="/projects">Projects</a>
 * Moisture Cure Polyurethanes, Padrapatpars, 2023 
 * HSP and Film Formation of Latexes, Amirkabir University of Technology, 2023<a href="/HSP"> Read More</a>
 * Waterborne Epoxy and Hardener, Padrapatpars, 2022
