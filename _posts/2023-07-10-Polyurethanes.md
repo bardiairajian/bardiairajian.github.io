@@ -12,7 +12,7 @@ tag:
 - blog
 - project
 - sealant
-comments: true
+comments: false
 feature: /assets/img/post/PU1.png
 ---
 
