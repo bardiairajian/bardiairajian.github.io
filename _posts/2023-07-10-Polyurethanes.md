@@ -4,14 +4,7 @@ title:  "Polyurethanes: Foam and Sealants"
 date:   2023-07-09
 excerpt: "An introduction to PU world"
 project: true
-tag:
-- polyurethane 
-- prepolymer
-- polyol
-- polymerization
-- blog
-- project
-- sealant
+tag: [polyurethane, prepolymer, polyol, polymerization, blog, project, sealant]
 comments: false
 feature: /assets/img/post/PU1.png
 ---
