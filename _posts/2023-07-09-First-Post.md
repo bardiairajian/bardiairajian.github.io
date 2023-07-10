@@ -6,7 +6,6 @@ excerpt: "My First Post"
 tag:
 - blog
 comments: false
-feature: /assets/img/post/Chem-e-Car3.jpg
 ---
 Hello and welcome to my website.<br>
 Writing in weblogs has been a hobby for me since childhood and I enjoy writing weblogs to share my ideas and knowledge. 
