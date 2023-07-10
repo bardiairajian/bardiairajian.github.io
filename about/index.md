@@ -123,8 +123,8 @@ University of Technology Publication (Jahad-Daneshgahi), Under Publish
 * Chemistry Olympiad Teacher, Alborz Mandegar Highschool, 2019-2021
 
 ## Projects
-* Moisture Cure Polyurethanes, Padrapatpars, 2023
-* HSP and Film Formation of Latexes, Amirkabir University of Technology, 2023
+* Moisture Cure Polyurethanes, Padrapatpars, 2023 
+* HSP and Film Formation of Latexes, Amirkabir University of Technology, 2023<a href="/HSP"> Read More</a>
 * Waterborne Epoxy and Hardener, Padrapatpars, 2022
 * Technical and economic justification plan of Diethylenetriamine (DETA), University of Tehran,2022
 * Rubber Hose Curing Simulation, APEK Hose, 2021
