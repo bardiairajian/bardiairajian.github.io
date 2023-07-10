@@ -32,7 +32,7 @@ comments: false
 * Tehran, Iran, 2018-2022
 * Bachelor of Science, Polymer Engineering
 * GPA: 18.10/20
-* Final Project: “Synthesis of Polyurea Polyaspartic High Abrasion and Chemical Resistance Coatings”<br>
+* Final Project: “Synthesis of Polyurea Polyaspartic High Abrasion and Chemical Resistance Coatings” <a href="/Polyurea"> Read More</a><br>
 
 ### University of Tehran
 * Tehran, Iran, 2018-2022 
@@ -126,13 +126,13 @@ University of Technology Publication (Jahad-Daneshgahi), Under Publish
 * Moisture Cure Polyurethanes, Padrapatpars, 2023 
 * HSP and Film Formation of Latexes, Amirkabir University of Technology, 2023<a href="/HSP"> Read More</a>
 * Waterborne Epoxy and Hardener, Padrapatpars, 2022
-* Technical and economic justification plan of Diethylenetriamine (DETA), University of Tehran,2022
-* Rubber Hose Curing Simulation, APEK Hose, 2021
-* Rubber Hose Mechanical Simulations, APEK Hose 2021
-* Polyurethane Sealants, Padrapatpars, 2020
-* Polyurethane Foam Formulation, Padrapatpars, 2020
-* Epoxy Prepolymer with Lower Heat and Shrinkage, Padrapat Pars, 2018
-* Chem-e-car with Zinc-Air Battery and Ammonia Fountain Brake, University of Tehran, 2019
+* Technical and economic justification plan of Diethylenetriamine (DETA), University of Tehran,2022<a href="/DETA2"> Read More</a><br>
+* Rubber Hose Curing Simulation, APEK Hose, 2021<a href="/Rubber"> Read More</a><br>
+* Rubber Hose Mechanical Simulations, APEK Hose 2021<a href="/Rubber"> Read More</a><br>
+* Polyurethane Sealants, Padrapatpars, 2020<a href="/Polyurethanes"> Read More</a><br>
+* Polyurethane Foam Formulation, Padrapatpars, 2020<a href="/Polyurethanes"> Read More</a><br>
+* Epoxy Prepolymer with Lower Heat and Shrinkage, Padrapat Pars, 2018<a href="/Epoxy-Prepolymer"> Read More</a><br>
+* Chem-e-car with Zinc-Air Battery and Ammonia Fountain Brake, University of Tehran, 2019<a href="/Chem-e-Car"> Read More</a><br>
 
 ## Honor and Awards
 * Rank 4 in National Color Technology Entrance Exam, Spring 2022
