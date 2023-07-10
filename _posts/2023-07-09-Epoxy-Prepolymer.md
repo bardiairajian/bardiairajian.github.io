@@ -11,7 +11,7 @@ tag:
 - blog
 - project
 - hardener
-comments: true
+comments: false
 feature: /assets/img/post/epoxy.jpg
 ---
 
