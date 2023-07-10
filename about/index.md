@@ -46,11 +46,12 @@ comments: false
 
 ## Publications
 ### Journal Articles
-1.	Irajian, B., A review on starch based nano-composite hydrogels. MIM Scientific Journal, 2021. 14: p. 10-21.
-2.	2.	Irajian, B., Polyurethane and its components. MIM Scientific Journal, 2021. 15.
-3.	Irajian, B., Rubber Rheometer. MIM Scientific Journal, 2021. 16.
-4.	Irajian, B. and A.H. Abolhasani, Calculation of density, solubility parameter and Tg of Polyethylene with molecular dynamics. MIM Scientific Journal, 2021. 17: p. 66-73.
-5.	Mirshahvalad, H., M. Seyfi, and B. Irajian, Solubility test and color change of rubber compound of fuel hoses in non-polar solvent and its effect on it. MIM Scientific Journal, 2022. 18.
+1.	Irajian, B., A review on starch based nano-composite hydrogels. MIM Scientific Journal, 2021. 14: p. 10-21.<a href="https://mimsj.ut.ac.ir/article_80369.html?lang=en"> Read More</a>
+2.	2.	Irajian, B., Polyurethane and its components. MIM Scientific Journal, 2021. 15.<a href="https://mimsj.ut.ac.ir/article_81184.html?lang=en"> Read More</a>
+3.	Irajian, B., Rubber Rheometer. MIM Scientific Journal, 2021. 16.<a href="https://mimsj.ut.ac.ir/article_82873.html?lang=en"> Read More</a>
+4.	Irajian, B. and A.H. Abolhasani, Calculation of density, solubility parameter and Tg of Polyethylene with molecular dynamics. MIM Scientific Journal, 2021. 17: p. 66-73.<a href="https://mimsj.ut.ac.ir/article_84020.html?lang=en"> Read More</a>
+5. Irajian, B., A review on polyurea systems and their applications. MIM Scientific Journal, 2021. 18.<a href="https://mimsj.ut.ac.ir/article_84807.html?lang=en"> Read More</a>
+6.	Mirshahvalad, H., M. Seyfi, and B. Irajian, Solubility test and color change of rubber compound of fuel hoses in non-polar solvent and its effect on it. MIM Scientific Journal, 2022. 18.
 ### Conference papers
 1.	Irajian, B. and M. Seyfi, Effect of reactor retention time on the HDPE degree of polymerization in the solution process: a simulation, in 3rd International Conference on the New Technologies in the Oil, Gas and Petrochemical Industries. 2022.
 2.	Irajian, B., P. Barari Jirandehi, and M. Miri, The effect of variation in polyethylene glycol molecular mass in polyurethane coating on polyurethane interaction energy with iron, in 5th International Conference on Technology Development in Chemical Engineering. 2022.
