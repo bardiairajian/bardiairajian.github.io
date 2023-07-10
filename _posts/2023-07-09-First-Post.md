@@ -3,8 +3,7 @@ layout: post
 title:  "First Post"
 date:   2023-07-09
 excerpt: "My First Post"
-tag:
-- blog
+tag: [blog]
 comments: false
 ---
 Hello and welcome to my website.<br>
