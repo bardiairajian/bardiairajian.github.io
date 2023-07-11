@@ -63,39 +63,53 @@ These certificates are related to the seminars and conferences to which I have s
 # Software
 <figure>
     <img src="/about/Certificates/Software/COMSOL copy.jpg">
+    <figcaption>
     Certificate of COMSOL Multiphysics from MaktabKhoone.
+    </figcaption>
 </figure>
 
 <figure>
     <img src="/about/Certificates/Software/COMSOL copy.jpg">
+    <figcaption>
     Certificate of COMSOL Multiphysics from MaktabKhoone.
+    </figcaption>
 </figure>
 
 <figure>
     <img src="/about/Certificates/Software/MATLAB.jpg">
+    <figcaption>
     Certificate of MATLAB. However, this course is not teaching an advanced level, and I followed that on the Faradars website to become a proficient MATLAB user!
-</figure>
+    </figcaption>
+    </figure>
 
 <figure>
     <img src="/about/Certificates/Software/Moldflow.jpg">
+    <figcaption>
     Certificate of MoldFlow used in the simulation of Plastic Injection Moulding.
+    </figcaption>
 </figure>
 
 # Workshop
 <figure>
     <img src="/about/Certificates/Workshop/Rahneshan.jpg">
+    <figcaption>
     Rahneshan is an international competition in which students select a specific project based on their favorites and compete with other teams to solve the problem. Our project was Nano-composite starch-based hydrogels economics and justification. We ranked 4 out of 15 teams.
+    </figcaption>
 </figure>
 
 <figure>
     <img src="/about/Certificates/Workshop/rubber copy.jpg">
+    <figcaption>
     This workshop was about the simple rules and materials in rubber compounding which was taught by Mr. Amanali Khani in Iran Ruber Research Center.
+    </figcaption>
 </figure>
 
 # Education
 <figure>
     <img src="/about/Certificates/Other/IrChO copy.jpg">
+    <figcaption>
     IrChO (Iranian National Chemistry Olympiads) silver medal certificate in 2017.
+    </figcaption>
 </figure>
 
 <figure>
@@ -105,11 +119,29 @@ These certificates are related to the seminars and conferences to which I have s
 
 <figure>
     <img src="/about/Certificates/Other/FOE.jpg">
+    <figcaption>
     Appreciation certificate for obtaining the first rank in the Polymer Engineering class of the University of Tehran in my first year of BSc.
+    </figcaption>
 </figure>
 
 <figure>
-    <img src="/about/Certificates/Other/FOE.jpg">
-    Appreciation certificate for obtaining the first rank in the Polymer Engineering class of the University of Tehran in my first year of BSc.
+    <img src="/about/Certificates/Other/Ranking Confirmation.jpg">
+    <figcaption>
+    The ranking confirmation indicates my ranking in BSc. (1 out of 26 students)
+    </figcaption>
 </figure>
 
+# Extraordinary
+<figure>
+    <img src="/about/Certificates/Other/Maraton copy.jpg">
+    <figcaption>
+    Appreciation certificate for participating in Chemistry Maraton at Allameh Helli Highschool.
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="/about/Certificates/Other/kankash.jpg">
+    <figcaption>
+    Appreciation certificate for participating in Kankash as a teacher to introduce Polymer Engineering major for students.
+    </figcaption>
+</figure>
