@@ -84,10 +84,32 @@ These certificates are related to the seminars and conferences to which I have s
 # Workshop
 <figure>
     <img src="/about/Certificates/Workshop/Rahneshan.jpg">
-    Rahneshan is an international competition in which students select a specific project based on their favorites and compete with other teams to solve the problem. Our project was Nano-composite starch-based hydrogels economic and justification. We ranked 4 out of 15 teams.
+    Rahneshan is an international competition in which students select a specific project based on their favorites and compete with other teams to solve the problem. Our project was Nano-composite starch-based hydrogels economics and justification. We ranked 4 out of 15 teams.
 </figure>
 
 <figure>
     <img src="/about/Certificates/Workshop/rubber copy.jpg">
     This workshop was about the simple rules and materials in rubber compounding which was taught by Mr. Amanali Khani in Iran Ruber Research Center.
 </figure>
+
+# Education
+<figure>
+    <img src="/about/Certificates/Other/IrChO copy.jpg">
+    IrChO (Iranian National Chemistry Olympiads) silver medal certificate in 2017.
+</figure>
+
+<figure>
+    <img src="/about/Certificates/Other/Konkoor copy.jpg">
+    Appreciation certificate for obtaining a high rank (668 out of more than 100,000 students in Iran) in the  Mathematics and Physics university entrance exam in 2018(Konkour).
+</figure>
+
+<figure>
+    <img src="/about/Certificates/Other/FOE.jpg">
+    Appreciation certificate for obtaining the first rank in the Polymer Engineering class of the University of Tehran in my first year of BSc.
+</figure>
+
+<figure>
+    <img src="/about/Certificates/Other/FOE.jpg">
+    Appreciation certificate for obtaining the first rank in the Polymer Engineering class of the University of Tehran in my first year of BSc.
+</figure>
+
