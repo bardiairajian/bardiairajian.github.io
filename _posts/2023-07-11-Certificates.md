@@ -69,13 +69,6 @@ These certificates are related to the seminars and conferences to which I have s
 </figure>
 
 <figure>
-    <img src="/about/Certificates/Software/COMSOL copy.jpg">
-    <figcaption>
-    Certificate of COMSOL Multiphysics from MaktabKhoone.
-    </figcaption>
-</figure>
-
-<figure>
     <img src="/about/Certificates/Software/MATLAB.jpg">
     <figcaption>
     Certificate of MATLAB. However, this course is not teaching an advanced level, and I followed that on the Faradars website to become a proficient MATLAB user!
@@ -114,7 +107,9 @@ These certificates are related to the seminars and conferences to which I have s
 
 <figure>
     <img src="/about/Certificates/Other/Konkoor copy.jpg">
+    <figcaption>
     Appreciation certificate for obtaining a high rank (668 out of more than 100,000 students in Iran) in the  Mathematics and Physics university entrance exam in 2018(Konkour).
+    </figcaption>
 </figure>
 
 <figure>
