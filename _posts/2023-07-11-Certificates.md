@@ -77,7 +77,7 @@ These certificates are related to the seminars and conferences to which I have s
 </figure>
 
 <figure>
-    <img src="/about/Certificates/Article/Moldflow.jpg">
+    <img src="/about/Certificates/Software/Moldflow.jpg">
     Certificate of MoldFlow used in the simulation of Plastic Injection Moulding.
 </figure>
 
