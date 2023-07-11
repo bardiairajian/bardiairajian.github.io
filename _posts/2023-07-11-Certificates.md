@@ -62,17 +62,17 @@ This certificates related to the seminars and conferences which I has sent them 
 
 # Software
 <figure>
-    <img src="/about/Certificates/Article/COMSOL copy.jpg">
+    <img src="/about/Certificates/Software/COMSOL copy.jpg">
     Certificate of COMSOL Multiphysics from MaktabKhoone.
 </figure>
 
 <figure>
-    <img src="/about/Certificates/Article/COMSOL copy.jpg">
+    <img src="/about/Certificates/Software/COMSOL copy.jpg">
     Certificate of COMSOL Multiphysics from MaktabKhoone.
 </figure>
 
 <figure>
-    <img src="/about/Certificates/Article/MATLAB.jpg">
+    <img src="/about/Certificates/Software/MATLAB.jpg">
     Certificate of MATLAB. However, this course in not teaching in advanced level and I followed that in Faradars website to became a proffecient MATLAB user!
 </figure>
 
