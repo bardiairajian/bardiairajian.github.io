@@ -26,7 +26,7 @@ This certificates related to the seminars and conferences which I has sent them 
     <img src="/about/Certificates/Article/ISPST Viscosity.jpg">
     <img src="/about/Certificates/Article/ISPST Waterborne.jpg">
     <figcaption>
-        A certificate of my article submition in the 15th Interational Seminar on Polymer Science and Technology (ISPST). 
+        Certificates of my article submition in the 15th Interational Seminar on Polymer Science and Technology (ISPST). 
     </figcaption>
 </figure>
 
@@ -35,6 +35,26 @@ This certificates related to the seminars and conferences which I has sent them 
     <figcaption>
         A certificate of my article submition in the 5th Conference on Technology Development in Chemical Engineering. 
         <a href="https://www.researchgate.net/publication/358978381_The_effect_of_variation_in_polyethylene_glycol_molecular_mass_in_polyurethane_coating_on_polyurethane_interaction_energy_with_iron">
+            Read Article
+            </a>
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="/about/Certificates/Article/hampa.jpg">
+    <figcaption>
+        My first conference article in HAMPA. 
+        <a href="https://www.researchgate.net/publication/355733098_Mold_injection_simulation_of_plastic_face_shield">
+            Read Article
+            </a>
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="/about/Certificates/Article/ntogp.jpg">
+    <figcaption>
+        A certificate of my article about simulatin of HDPE plymerization using aspen plus. 
+        <a href="https://www.researchgate.net/publication/358877357_Effect_of_reactor_retention_time_on_the_HDPE_degree_of_polymerization_in_the_solution_process_a_simulation">
             Read Article
             </a>
     </figcaption>
