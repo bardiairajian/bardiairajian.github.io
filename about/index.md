@@ -66,7 +66,7 @@ comments: false
 ### Books
 1. Amirhosein Yazdanbakhsh, Bardia Irajian, Physical Chemistry of Polymers Solution Manual, Amirkabir
 University of Technology Publication (Jahad-Daneshgahi), Under Publish
-2. Bardia Irajian, Mohammad Sadegh Fateh, Sina Noorifard, Abbas Bazdar, Mohammad Sanaeenia, etc,Resonance: Questions for Second Step of Chemistry Olympiad, Boroon Sepehr Publication, Under Publish
+2. Bardia Irajian, Mohammad Sadegh Fateh, Sina Noorifard, Abbas Bazdar, Mohammad Sanaeenia, etc, Resonance: Questions for Second Step of Chemistry Olympiad, Boroon Sepehr Publication, Under Publish
 
 
 
@@ -134,7 +134,7 @@ University of Technology Publication (Jahad-Daneshgahi), Under Publish
 * Epoxy Prepolymer with Lower Heat and Shrinkage, Padrapat Pars, 2018<a href="/Epoxy-Prepolymer"> Read More</a><br>
 * Chem-e-car with Zinc-Air Battery and Ammonia Fountain Brake, University of Tehran, 2019<a href="/Chem-e-Car"> Read More</a><br>
 
-## Honor and Awards
+## <a href="/Certificates">Honor and Awards</a>
 * Rank 4 in National Color Technology Entrance Exam, Spring 2022
 * Selected as a Talented Student (without Exam) for Color Technology Master of Science, Amirkabir University of Technology, Winter 2022
 * Ranked One Among 26 Students in Polymer Engineering Bachelor of Science Students, University of Tehran, Fall 2021
